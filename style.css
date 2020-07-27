@@ -12,6 +12,9 @@
     color: maroon;
     font-size: large;
 }
+.maker{
+    text-align: center;
+}
 .screenBig{
     height: 50px;
     width: 235px;

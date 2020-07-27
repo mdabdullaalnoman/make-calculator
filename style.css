@@ -1,0 +1,40 @@
+.calculator{
+    
+    margin: 40px 20px;
+    width: 250px;
+    text-align: center;
+   padding: 15px;
+    background-color: rgb(193, 208, 223);
+    box-shadow: 5px 5px 10px maroon;
+    border-radius: 5px;
+}
+.heading-style{
+    color: maroon;
+    font-size: large;
+}
+.screenBig{
+    height: 50px;
+    width: 235px;
+    border: 3px solid lightseagreen;
+    text-align: right;
+    font-size: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+
+input[type="button"] {
+    width: 55px;
+    height: 55px;
+    text-align: center;
+    color: maroon;
+    font-size: large;
+    font-weight: 300px;
+   margin-top: 5px;
+   border-radius: 20px;
+  
+
+}
+input[type="button"]:hover{
+    background-color: lightcoral;
+}
